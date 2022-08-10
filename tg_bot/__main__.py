@@ -18,8 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-*Hi {}, Iam {}*. 
-*An Advanced Group Manager Bot to Manage your group's effectively.*
+*Hi 👋{}, Iam {}*. 
+*An Advanced Group Manager Bot to Manage your group's effectively 😜.*
 *To know about my commands to and their uses send /help..*
 """
 
@@ -30,7 +30,6 @@ I'm a modular group management bot with many fun & extras!
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
  - /donate: information about how to donate!
  - /settings: To see how You configured me. 
    
