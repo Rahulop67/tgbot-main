@@ -13,7 +13,7 @@ bs4
 
 lxml
 
-demjson
+
 
 PyLyrics
 
